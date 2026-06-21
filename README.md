@@ -8,3 +8,4 @@ This Power BI dashboard analyzes global CO₂ emissions across different countri
 <img width="504" height="286" alt="image" src="https://github.com/user-attachments/assets/6d006ed9-8a76-492d-b9bd-e083ebd00dec" />
 
 
+
